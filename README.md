@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-- ** Project Highlights:**
+- ## Project Highlights:
 
     - Data Loading in Power BI Desktop from MySQL.
 
