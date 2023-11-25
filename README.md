@@ -1,5 +1,8 @@
 # Business-Insights-360
 
+📈 Live Report: https://lnkd.in/dQzWmSVC
+
+
 - ## Project Highlights:
 
     - Data Loading in Power BI Desktop from MySQL.
