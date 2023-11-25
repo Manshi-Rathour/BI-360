@@ -12,33 +12,33 @@
 
     - Deployment: Launched the solution on Power BI web.
 
-**📈 Finance View:** 
+## 📈 Finance View:
 
 ➡ Focused on Net Sales, Gross Margin, and Net Profit.
 
 ➡ Illuminated Net Sales performance over time.
 
 
-**📊 Sales View:** 
+## 📊 Sales View:
 
 ➡ Emphasized Net Sales, Gross Margin, and Net Profit.
 
 ➡ Analyzed Customer and Product performance by region.
 
 
-**📣 Marketing View:** 
+## 📣 Marketing View:
 
 ➡ Highlighted Net Sales, Gross Margin, and Net Profit.
 
 ➡ Explored Customer and Product performance based on division.
 
 
-**🌐 Supply Chain View:** 
+## 🌐 Supply Chain View: 
 
 ➡ Concentrated on Forecast Accuracy, Forecast Accuracy Last Year, Net Error, and Absolute Error.
 
 
-**📊 Executive View:** 
+## 📊 Executive View:
 
 ➡ Centered around Net Sales, Gross Margin, Net Profit, and Forecast Accuracy.
 
@@ -50,7 +50,7 @@
 
 
 
-**🎯 Dynamic Filters:** 
+## 🎯 Dynamic Filters:
 
 ➡ Users can apply filters based on Region, Market, Customer, Segment, Category.
 
