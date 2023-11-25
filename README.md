@@ -14,12 +14,14 @@
 
 **📈 Finance View:** 
 
+
 ➡ Focused on Net Sales, Gross Margin, and Net Profit.
 
 ➡ Illuminated Net Sales performance over time.
 
 
 **📊 Sales View:** 
+
 
 ➡ Emphasized Net Sales, Gross Margin, and Net Profit.
 
@@ -28,6 +30,7 @@
 
 **📣 Marketing View:** 
 
+
 ➡ Highlighted Net Sales, Gross Margin, and Net Profit.
 
 ➡ Explored Customer and Product performance based on division.
@@ -35,10 +38,12 @@
 
 **🌐 Supply Chain View:** 
 
+
 ➡ Concentrated on Forecast Accuracy, Forecast Accuracy Last Year, Net Error, and Absolute Error.
 
 
 **📊 Executive View:** 
+
 
 ➡ Centered around Net Sales, Gross Margin, Net Profit, and Forecast Accuracy.
 
@@ -50,6 +55,7 @@
 
 
 **🎯 Dynamic Filters:** 
+
 
 ➡ Users can apply filters based on Region, Market, Customer, Segment, Category.
 
