@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-📈 Live Report: https://lnkd.in/dQzWmSVC
+📈 Live Report: https://bit.ly/My-PowerBI-Report
 
 
 - ## Project Highlights:
